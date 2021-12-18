@@ -1,0 +1,23 @@
+{
+    "cards":[{
+    "img":"images/image1.jpg",
+    "name":"samsung",
+    "rate":"18000",
+    "offer":"5000",
+    "button":"view"
+},{
+    "img":"images/image2.jpg",
+    "name":"samsung",
+    "rate":"78000",
+    "offer":"7000",
+    "button":"view"
+},{
+    "img":"images/image3.jpg",
+    "name":"vivo",
+    "rate":"21000",
+    "offer":"5000",
+    "button":"view"
+},{
+     }
+    ]
+   }
